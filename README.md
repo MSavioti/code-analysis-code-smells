@@ -1,5 +1,5 @@
 # code-analysis-code-smells
-A code analysis project made for a college work.
+A code analysis project made to look for code smells in a project.
 
 It detects the following code smells:
 
